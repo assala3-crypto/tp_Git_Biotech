@@ -2,3 +2,10 @@ Git est un système de contrôle de version essentiel pour suivre l'historique d
 Il permet de revenir à des versions antérieures en cas d'erreur et de fusionner le travail de plusieurs personnes sans risque de perte de données. 
 Dans ce TP, j'ai appris à cloner un dépôt GitHub sur Google Colab, à effectuer des commits pour enregistrer les modifications et à pousser (push) ces changements vers GitHub. 
 J'ai également compris l'utilité des branches pour développer de nouvelles fonctionnalités séparément de la version principale.
+
+---
+Idée de projet biotechnologique à versionner :
+Développement d'un pipeline bio-informatique en Python sous Colab pour l'analyse et l'alignement de séquences d'ADN/ARN. 
+Ce projet vise à automatiser la détection de mutations génétiques à partir de fichiers de séquençage, 
+ce qui permettra de suivre l'évolution du code, de tester différents algorithmes de traitement de données 
+et de collaborer facilement sur la recherche sans perdre les versions stables du programme.
